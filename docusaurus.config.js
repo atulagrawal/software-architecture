@@ -20,7 +20,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'atulagrawal', // Usually your GitHub org/user name.
   projectName: 'software-architecture', // Usually your repo name.
-
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
