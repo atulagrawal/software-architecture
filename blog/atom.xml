@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/software-architecture/blog</id>
     <title>Software Architecture Blog</title>
-    <updated>2023-05-27T03:16:00.000Z</updated>
+    <updated>2023-05-30T12:30:03.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/software-architecture/blog"/>
     <subtitle>Software Architecture Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/software-architecture/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Transactions across the data centers]]></title>
+        <id>https://your-docusaurus-test-site.com/software-architecture/blog/transactions-across-the-data-centers</id>
+        <link href="https://your-docusaurus-test-site.com/software-architecture/blog/transactions-across-the-data-centers"/>
+        <updated>2023-05-30T12:30:03.000Z</updated>
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/srOgpXECblk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content>
+        <author>
+            <name>Google Developers</name>
+        </author>
+        <category label="Database" term="Database"/>
+        <category label="Multi Data Center" term="Multi Data Center"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choosing the Best Database in a System Design Interview]]></title>
         <id>https://your-docusaurus-test-site.com/software-architecture/blog/choosing-the-best-database-in-a-system-design-interview</id>
