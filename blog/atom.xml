@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/software-architecture/blog</id>
     <title>Software Architecture Blog</title>
-    <updated>2023-05-30T12:30:03.000Z</updated>
+    <updated>2023-06-13T21:37:40.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/software-architecture/blog"/>
     <subtitle>Software Architecture Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/software-architecture/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Goals, Objective and Outcomes]]></title>
+        <id>https://your-docusaurus-test-site.com/software-architecture/blog/goals-objectives-and-outcomes</id>
+        <link href="https://your-docusaurus-test-site.com/software-architecture/blog/goals-objectives-and-outcomes"/>
+        <updated>2023-06-13T21:37:40.829Z</updated>
+        <summary type="html"><![CDATA[In our day to day life, we are often asked various questions like "why we are doing this", "what would happen if we don't do it", "how do we know if we are doing the right thing" and so on.]]></summary>
+        <content type="html"><![CDATA[<p>In our day to day life, we are often asked various questions like "why we are doing this", "what would happen if we don't do it", "how do we know if we are doing the right thing" and so on.</p><p>The reason why these questions comes to our mind is because are thinking inside out. we don't know why this decision was made and why we are being asked to do a specific task.</p><p>As an example, a team might get a goal that the unit test coverage for the components should be at least 85%. We all understand the need for having the unit test cases but then we have questions about the measurement criteria. E.g. is it important to have well written test cases vs some poorly written test cases that have 90% line coverage?</p><p>This is where we need to share a big picture with the team mates and we need to explain why part (goasl and objectives) so that they helps in achieveing the actual goal even though if it means that we have to adjust the measurement criteria from 85% coverage to 80% coverage but well written and maintained test cases.</p><blockquote><p>The maintainance of the test case is very important and as and we should add update them if we are founding any new bug.</p></blockquote><p>The big picture can be shared in the following format:
+Goal :</p><ul><li>Our goal of the platform is to improve time to market.
+Objective #1 :</li><li><strong>Improve developer's efficiency by having well written unit test cases that helps in catching bugs during development phase itself instead of catching them during integration testing or in live.</strong>
+Outcome:</li><li>Unit test coverage is required to be 85% to ensure that all critical path of the codes are covered.</li><li>No of issues detected post development due to code changes.</li><li>So on...
+Process :</li><li>Ensure that test cases are well-written and covers critical business use cases during reviews.</li><li>Ensure that test cases are being updated if a new bug is identified.</li><li></li></ul><p>Objective #2 :</p><ul><li>Improve the modulatiry of the code so that developers are able to easily understand the codebase and know the scope of the code change and its impact.</li><li>So on...</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transactions across the data centers]]></title>
         <id>https://your-docusaurus-test-site.com/software-architecture/blog/transactions-across-the-data-centers</id>
